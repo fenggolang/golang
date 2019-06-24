@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="028e8314-ddcc-4c53-9709-5c528fe6cfa2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/gofmt.go" beforeDir="false" afterPath="$PROJECT_DIR$/gofmt.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/golang-goroutine协程/main1.go" beforeDir="false" afterPath="$PROJECT_DIR$/golang-goroutine协程/main1.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/golang-goroutine协程/main2.go" beforeDir="false" afterPath="$PROJECT_DIR$/golang-goroutine协程/main2.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/golang-goroutine协程/main3.go" beforeDir="false" afterPath="$PROJECT_DIR$/golang-goroutine协程/main3.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/golang-mux框架学习.md" beforeDir="false" afterPath="$PROJECT_DIR$/golang-mux框架学习.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/golang-常识/golang指针数组和数据指针.md" beforeDir="false" afterPath="$PROJECT_DIR$/golang-常识/golang指针数组和数据指针.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/golang-接口/golang-interface.md" beforeDir="false" afterPath="$PROJECT_DIR$/golang-接口/golang-interface.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/golang-数组/golang-切片.md" beforeDir="false" afterPath="$PROJECT_DIR$/golang-数组/golang-切片.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/golang-项目实战/golang-prometheus实战/golang手动写2条监控数据到prometheus中.go" beforeDir="false" afterPath="$PROJECT_DIR$/golang-项目实战/golang-prometheus实战/golang手动写2条监控数据到prometheus中.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/golang-项目实战/golang-websocket实战/websocket-demo-client-server/client.go" beforeDir="false" afterPath="$PROJECT_DIR$/golang-项目实战/golang-websocket实战/websocket-demo-client-server/client.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/golang-项目实战/golang-websocket实战/websocket-demo-client-server/server.go" beforeDir="false" afterPath="$PROJECT_DIR$/golang-项目实战/golang-websocket实战/websocket-demo-client-server/server.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/golang-项目实战/golang-日志监控系统/goroutine实现解析字符串经过处理并输出V2.go" beforeDir="false" afterPath="$PROJECT_DIR$/golang-项目实战/golang-日志监控系统/goroutine实现解析字符串经过处理并输出V2.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/golang-项目实战/golang-日志监控系统/goroutine实现解析字符串进过处理并输出V1.go" beforeDir="false" afterPath="$PROJECT_DIR$/golang-项目实战/golang-日志监控系统/goroutine实现解析字符串进过处理并输出V1.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/golang-项目实战/golang-日志监控系统/logProcess.go" beforeDir="false" afterPath="$PROJECT_DIR$/golang-项目实战/golang-日志监控系统/logProcess.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/golang-项目实战/golang-日志监控系统/logProcess_1.go" beforeDir="false" afterPath="$PROJECT_DIR$/golang-项目实战/golang-日志监控系统/logProcess_1.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/golang-项目实战/golang-日志监控系统/logProcess_2.go" beforeDir="false" afterPath="$PROJECT_DIR$/golang-项目实战/golang-日志监控系统/logProcess_2.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/golang-项目实战/golang-日志监控系统/logProcess_3.go" beforeDir="false" afterPath="$PROJECT_DIR$/golang-项目实战/golang-日志监控系统/logProcess_3.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/golang-项目实战/golang-日志监控系统/logProcess_4.go" beforeDir="false" afterPath="$PROJECT_DIR$/golang-项目实战/golang-日志监控系统/logProcess_4.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/golang-项目实战/golang-邮箱操作/sendEmail.go" beforeDir="false" afterPath="$PROJECT_DIR$/golang-项目实战/golang-邮箱操作/sendEmail.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/golang-项目实战/openshift-statistics-analysis/.idea/go.imports.xml" beforeDir="false" afterPath="$PROJECT_DIR$/golang-项目实战/openshift-statistics-analysis/.idea/go.imports.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/golang-项目实战/openshift-statistics-analysis/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/golang-项目实战/openshift-statistics-analysis/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/golang-项目实战/openshift-statistics-analysis/.idea/openshift-statistics-analysis.iml" beforeDir="false" afterPath="$PROJECT_DIR$/golang-项目实战/openshift-statistics-analysis/.idea/openshift-statistics-analysis.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/golang-项目实战/openshift-statistics-analysis/.idea/watcherTasks.xml" beforeDir="false" afterPath="$PROJECT_DIR$/golang-项目实战/openshift-statistics-analysis/.idea/watcherTasks.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/golang-项目实战/openshift-statistics-analysis/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/golang-项目实战/openshift-statistics-analysis/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/golang-项目实战/openshift-statistics-analysis/pkg/const/const.go" beforeDir="false" afterPath="$PROJECT_DIR$/golang-项目实战/openshift-statistics-analysis/pkg/const/const.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/golang-项目实战/openshift-statistics-analysis/pkg/elasticsearch/elasticsearch.go" beforeDir="false" afterPath="$PROJECT_DIR$/golang-项目实战/openshift-statistics-analysis/pkg/elasticsearch/elasticsearch.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/golang-项目实战/openshift-statistics-analysis/pkg/utils/time.go" beforeDir="false" afterPath="$PROJECT_DIR$/golang-项目实战/openshift-statistics-analysis/pkg/utils/time.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/golang-项目实战/openshift-statistics-analysis/pkg/utils/time_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/golang-项目实战/openshift-statistics-analysis/pkg/utils/time_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/golang-项目实战/openshift-statistics-analysis/pkg/utils/token.go" beforeDir="false" afterPath="$PROJECT_DIR$/golang-项目实战/openshift-statistics-analysis/pkg/utils/token.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/golang-项目实战/openshift-statistics-analysis/pkg/utils/token_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/golang-项目实战/openshift-statistics-analysis/pkg/utils/token_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/golang-项目实战/openshift-statistics-analysis/pkg/utils/websocket.go" beforeDir="false" afterPath="$PROJECT_DIR$/golang-项目实战/openshift-statistics-analysis/pkg/utils/websocket.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/golang-项目实战/openshift-statistics-analysis/src/main/go-build-app-to-es.go" beforeDir="false" afterPath="$PROJECT_DIR$/golang-项目实战/openshift-statistics-analysis/src/main/go-build-app-to-es.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/golang-项目实战/openshift-statistics-analysis/src/main/go-create-pvc-to-es.go" beforeDir="false" afterPath="$PROJECT_DIR$/golang-项目实战/openshift-statistics-analysis/src/main/go-create-pvc-to-es.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/golang-项目实战/openshift-statistics-analysis/src/main/go-delete-pod-to-es.go" beforeDir="false" afterPath="$PROJECT_DIR$/golang-项目实战/openshift-statistics-analysis/src/main/go-delete-pod-to-es.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/golang-项目实战/openshift-statistics-analysis/src/main/go-deploy-app-to-es.go" beforeDir="false" afterPath="$PROJECT_DIR$/golang-项目实战/openshift-statistics-analysis/src/main/go-deploy-app-to-es.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/golang-项目实战/openshift-statistics-analysis/src/main/go-get-podDetail-to-es.go" beforeDir="false" afterPath="$PROJECT_DIR$/golang-项目实战/openshift-statistics-analysis/src/main/go-get-podDetail-to-es.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/golang-项目实战/openshift-statistics-analysis/src/main/go-mount-storage-to-es.go" beforeDir="false" afterPath="$PROJECT_DIR$/golang-项目实战/openshift-statistics-analysis/src/main/go-mount-storage-to-es.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/golang-项目实战/openshift-statistics-analysis/src/main/go-scale-pod-to-es.go" beforeDir="false" afterPath="$PROJECT_DIR$/golang-项目实战/openshift-statistics-analysis/src/main/go-scale-pod-to-es.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/golang-项目实战/openshift-statistics-analysis/src/main/go-ssh.go" beforeDir="false" afterPath="$PROJECT_DIR$/golang-项目实战/openshift-statistics-analysis/src/main/go-ssh.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/golang-项目实战/openshift-statistics-analysis/src/main/test.go" beforeDir="false" afterPath="$PROJECT_DIR$/golang-项目实战/openshift-statistics-analysis/src/main/test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/golang学习笔记/go函数赋值-匿名函数-闭包.md" beforeDir="false" afterPath="$PROJECT_DIR$/golang学习笔记/go函数赋值-匿名函数-闭包.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/golang学习笔记/go结构体-方法-接口.md" beforeDir="false" afterPath="$PROJECT_DIR$/golang学习笔记/go结构体-方法-接口.md" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/golang-循环控制/golang-if-for-switch语句.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/golang-常识/golang-常识.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/golang-学习网站/golang学习网站.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/golang-项目实战/golang-prometheus实战/golang手动写2条监控数据到prometheus中.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ccssoft</find>
+    </findStrings>
+  </component>
+  <component name="GOROOT" path="D:\Program Files\GO\1.10.3" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/gofmt.go" />
+        <option value="$PROJECT_DIR$/golang-mux框架学习.md" />
+        <option value="$PROJECT_DIR$/golang-常识/golang指针数组和数据指针.md" />
+        <option value="$PROJECT_DIR$/golang-接口/golang-interface.md" />
+        <option value="$PROJECT_DIR$/golang-数组/golang-切片.md" />
+        <option value="$PROJECT_DIR$/golang学习笔记/go结构体-方法-接口.md" />
+        <option value="$PROJECT_DIR$/golang学习笔记/go函数赋值-匿名函数-闭包.md" />
+        <option value="$PROJECT_DIR$/golang-项目实战/golang-邮箱操作/sendEmail.go" />
+        <option value="$PROJECT_DIR$/golang-项目实战/golang-日志监控系统/goroutine实现解析字符串进过处理并输出V1.go" />
+        <option value="$PROJECT_DIR$/golang-项目实战/golang-日志监控系统/logProcess_1.go" />
+        <option value="$PROJECT_DIR$/golang-项目实战/golang-日志监控系统/logProcess_4.go" />
+        <option value="$PROJECT_DIR$/golang-项目实战/golang-日志监控系统/logProcess.go" />
+        <option value="$PROJECT_DIR$/golang-项目实战/golang-日志监控系统/logProcess_2.go" />
+        <option value="$PROJECT_DIR$/golang-项目实战/golang-日志监控系统/logProcess_3.go" />
+        <option value="$PROJECT_DIR$/golang-项目实战/golang-日志监控系统/goroutine实现解析字符串经过处理并输出V2.go" />
+        <option value="$PROJECT_DIR$/golang-项目实战/golang-websocket实战/websocket-demo-client-server/server.go" />
+        <option value="$PROJECT_DIR$/golang-项目实战/golang-websocket实战/websocket-demo-client-server/client.go" />
+        <option value="$PROJECT_DIR$/golang-项目实战/golang-prometheus实战/golang手动写2条监控数据到prometheus中.go" />
+        <option value="$PROJECT_DIR$/golang-项目实战/openshift-statistics-analysis/pkg/const/const.go" />
+        <option value="$PROJECT_DIR$/golang-项目实战/openshift-statistics-analysis/pkg/utils/token_test.go" />
+        <option value="$PROJECT_DIR$/golang-项目实战/openshift-statistics-analysis/pkg/utils/websocket.go" />
+        <option value="$PROJECT_DIR$/golang-项目实战/openshift-statistics-analysis/src/main/test.go" />
+        <option value="$PROJECT_DIR$/golang-项目实战/openshift-statistics-analysis/src/main/go-build-app-to-es.go" />
+        <option value="$PROJECT_DIR$/golang-项目实战/openshift-statistics-analysis/src/main/go-get-podDetail-to-es.go" />
+        <option value="$PROJECT_DIR$/golang-项目实战/openshift-statistics-analysis/src/main/go-scale-pod-to-es.go" />
+        <option value="$PROJECT_DIR$/golang-项目实战/openshift-statistics-analysis/src/main/go-create-pvc-to-es.go" />
+        <option value="$PROJECT_DIR$/golang-项目实战/openshift-statistics-analysis/src/main/go-deploy-app-to-es.go" />
+        <option value="$PROJECT_DIR$/golang-项目实战/openshift-statistics-analysis/src/main/go-mount-storage-to-es.go" />
+        <option value="$PROJECT_DIR$/golang-goroutine协程/main1.go" />
+        <option value="$PROJECT_DIR$/golang-项目实战/openshift-statistics-analysis/src/main/go-delete-pod-to-es.go" />
+        <option value="$PROJECT_DIR$/golang-goroutine协程/main2.go" />
+        <option value="$PROJECT_DIR$/golang-goroutine协程/main3.go" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="945" />
+    <option name="height" value="1035" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="golang" type="b2602c69:ProjectViewProjectNode" />
+              <item name="golang" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="golang" type="b2602c69:ProjectViewProjectNode" />
+              <item name="golang" type="462c0819:PsiDirectoryNode" />
+              <item name="golang-学习网站" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="golang" type="b2602c69:ProjectViewProjectNode" />
+              <item name="golang" type="462c0819:PsiDirectoryNode" />
+              <item name="golang-常识" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="golang" type="b2602c69:ProjectViewProjectNode" />
+              <item name="golang" type="462c0819:PsiDirectoryNode" />
+              <item name="golang-循环控制" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="golang" type="b2602c69:ProjectViewProjectNode" />
+              <item name="golang" type="462c0819:PsiDirectoryNode" />
+              <item name="golang-项目实战" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="golang" type="b2602c69:ProjectViewProjectNode" />
+              <item name="golang" type="462c0819:PsiDirectoryNode" />
+              <item name="golang-项目实战" type="462c0819:PsiDirectoryNode" />
+              <item name="golang-prometheus实战" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2533512" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/golang-循环控制/golang-if-for-switch语句.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/golang-常识/golang-常识.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/golang-学习网站/golang学习网站.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/golang-项目实战/golang-prometheus实战/golang手动写2条监控数据到prometheus中.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

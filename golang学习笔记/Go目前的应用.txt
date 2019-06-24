@@ -1,0 +1,8 @@
+vmware/harbor-db:v1.4.0
+vmware/harbor-ui
+
+Go目前的应用
+	Docker
+	Codis:go写的，豆瓣开源的
+	Glow：类似于hadoop
+	Cockroach

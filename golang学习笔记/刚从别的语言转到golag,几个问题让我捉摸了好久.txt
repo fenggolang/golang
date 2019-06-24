@@ -1,0 +1,13 @@
+之前是 PHP/Java 程序员，转到用 golang 开发，下面几个问题让我着实学习了好久才弄明白
+
+- 谜一般的 GOPATH，到底该怎么配！
+- 为什么有 error，还需要 panic？
+- golang 的接口是一种什么样的存在？
+- goroutine panic 居然会导致进程退出！！！
+- channel 满天飞，这样真的好么？
+
+checked exception 是 error。runtime exception 是 panic。
+
+你控制不了的进程外错误用 error，凡是程序员的锅，用panic
+
+原文：[刚从别的语言转到 golang，下面几个问题让我琢磨了好久](https://zhuanlan.zhihu.com/p/26005856)
